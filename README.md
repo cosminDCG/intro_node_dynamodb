@@ -20,7 +20,7 @@ intro_node
 - Dupa ce terminam de rezolvat, ca sa rulam, mergem in folderul cu exercitiul `cd app/exercitii/exercitiul_1` si rulam `node process`
 
 ## Exercitiul 2
-- Dupa modelul de la exercitiul 2, cream folderul exercitiul_2
+- Dupa modelul de la exercitiul 1, cream folderul exercitiul_2
 - In el adaugam fisierul **data.json** care va contine:
 ```
 {
