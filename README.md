@@ -54,9 +54,12 @@ intro_node
       |_ dao
       |_ dto
       |_ env
+      |_ errors
       |_ services
             |_storages
+      |_ test
       |_ utils
+      |_ validators
 ```
 - In folderul `storages` vom crea fisierele **UserStorageService.js** si **PostStorageService**
 
