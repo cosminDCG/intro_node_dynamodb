@@ -3,6 +3,7 @@
 ## Exercitiul 0
 git clone https://github.com/cosminDCG/intro_node_dynamodb.git
 - Deschideti proiectul si in folderul intro_node rulati `npm install`
+- `cd localstack` and run `docker-compose up`
 - `cd app` si apoi `node index` ca sa verificam ca totul a functionat ok (tot ce tine de index.js discutam pe larg mai tarziu)
 
 ## Exercitiul 1

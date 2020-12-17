@@ -23,5 +23,3 @@ var server = app.listen(Config.port, async() => {
     console.log('Tweeter is listening on port: ' + Config.port + '!');
     await initialize();
 });
-
-
